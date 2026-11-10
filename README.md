@@ -1,0 +1,1 @@
+Open index.html to preview. Before launch, replace the working business name as needed and add your public phone or email in contact.html. Review the service description and add your service area. Upload the contents to your GitHub repository. Under Settings > Pages, choose Deploy from a branch, then main and /(root).
